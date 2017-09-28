@@ -1,8 +1,8 @@
 body{
   font-family: "Open Sans", sans-serif;
-  color: black;
+  color: darkblue;
   margin: 10px 50px 10px 50px;
-  background-color: black;
+  background-color: Ivory;
 }
 
 h1,h2{
@@ -12,5 +12,7 @@ h1,h2{
 img{
   float: left;
   margin-right: 10px;
-  width:300px;
+  width:100px;
 }
+
+
